@@ -1,9 +1,11 @@
 ### Prazer meu nome é Khristopher!!
 
-![khristopher22 GitHub stats](https://github-readme-stats.vercel.app/api?username=khristopher22&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khristopher22&layout=compact&langs_count=16&theme=radical)
-### Tecnologias que uso no meu dia
+<div style="display: flex">
+  ![khristopher22 GitHub stats](https://github-readme-stats.vercel.app/api?username=khristopher22&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khristopher22&layout=compact&langs_count=16&theme=radical)
+  ### Tecnologias que uso no meu dia
+</div>
 
 
 <div style="display: inline_block"><br>
