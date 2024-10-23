@@ -1,7 +1,5 @@
 ### Prazer meu nome é Khristopher!!
 
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khristopher-kidman/)
-
 ![khristopher22 GitHub stats](https://github-readme-stats.vercel.app/api?username=khristopher22&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khristopher22&layout=compact&langs_count=16&theme=radical)
