@@ -1,10 +1,7 @@
 ### Prazer meu nome é Khristopher!!
 
-<div style="display: flex">
   ![khristopher22 GitHub stats](https://github-readme-stats.vercel.app/api?username=khristopher22&show_icons=true&theme=radical)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khristopher22&layout=compact&langs_count=16&theme=radical)
-</div>
 
   ### Tecnologias que uso no meu dia
 
